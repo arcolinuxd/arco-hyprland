@@ -58,6 +58,7 @@ arcolinux-local-xfce4-git
 arcolinux-wallpapers-git
 arcolinux-xfce-git
 cava
+dconf-editor
 feh
 rofi
 thunar
