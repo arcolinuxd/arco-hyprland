@@ -48,21 +48,23 @@ echo "Installation of the core software"
 
 list=(
 sddm
+archlinux-logout-git
+arcolinux-config-all-desktops-git
+arcolinux-dconf-all-desktops-git
+arcolinux-gtk3-arcolinux-candy-beauty-git
+arcolinux-hyprland-git
+arcolinux-kitty-git
+arcolinux-local-xfce4-git
 arcolinux-wallpapers-git
+arcolinux-xfce-git
+cava
+feh
+rofi
 thunar
 thunar-archive-plugin
 thunar-volman
+tty-clock
 xfce4-terminal
-arcolinux-hyprland-git
-arcolinux-xfce-git
-arcolinux-local-xfce4-git
-feh
-arcolinux-config-all-desktops-git
-arcolinux-gtk3-arcolinux-candy-beauty-git
-arcolinux-dconf-all-desktops-git
-arcolinux-kitty-git
-archlinux-logout-git
-rofi
 )
 
 count=0
