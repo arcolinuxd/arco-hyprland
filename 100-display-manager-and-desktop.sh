@@ -60,6 +60,7 @@ feh
 arcolinux-config-all-desktops-git
 arcolinux-gtk3-arcolinux-candy-beauty-git
 arcolinux-dconf-all-desktops-git
+arcolinux-kitty-git
 archlinux-logout-git
 rofi
 )
