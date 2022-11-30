@@ -53,17 +53,14 @@ thunar
 thunar-archive-plugin
 thunar-volman
 xfce4-terminal
-arcolinux-hypr-git
+arcolinux-hyprland-git
 arcolinux-xfce-git
 arcolinux-local-xfce4-git
-hypr-dev-git
-autotiling
-dmenu
 feh
 arcolinux-config-all-desktops-git
+arcolinux-gtk3-arcolinux-candy-beauty-git
 arcolinux-dconf-all-desktops-git
 archlinux-logout-git
-polybar
 rofi
 )
 
