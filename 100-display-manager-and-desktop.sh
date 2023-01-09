@@ -57,6 +57,8 @@ arcolinux-hyprland-profile-git
 arcolinux-kitty-git
 arcolinux-local-xfce4-git
 arcolinux-wallpapers-git
+arcolinux-wayland-app-hooks-git 
+arcolinux-wayland-profile-git
 arcolinux-xfce-git
 cava
 dconf-editor
