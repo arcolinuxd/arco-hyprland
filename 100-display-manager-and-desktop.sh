@@ -63,6 +63,7 @@ arcolinux-xfce-git
 cava
 dconf-editor
 feh
+nerd-fonts-source-code-pro
 rofi
 thunar
 thunar-archive-plugin
