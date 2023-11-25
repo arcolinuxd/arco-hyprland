@@ -47,7 +47,7 @@ echo "Installation of the core software"
 ###############################################################################
 
 list=(
-sddm-git
+sddm
 archlinux-logout-git
 arcolinux-config-all-desktops-git
 arcolinux-dconf-all-desktops-git
