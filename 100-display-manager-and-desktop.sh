@@ -63,6 +63,7 @@ arcolinux-xfce-git
 cava
 dconf-editor
 feh
+hyprland-git
 nerd-fonts-source-code-pro
 rofi
 thunar
