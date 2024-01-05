@@ -53,12 +53,10 @@ arcolinux-config-all-desktops-git
 arcolinux-dconf-all-desktops-git
 arcolinux-gtk3-arcolinux-candy-beauty-git
 arcolinux-hyprland-git
-arcolinux-hyprland-profile-git
 arcolinux-kitty-git
 arcolinux-local-xfce4-git
 arcolinux-wallpapers-git
 arcolinux-wayland-app-hooks-git 
-arcolinux-wayland-profile-git
 arcolinux-xfce-git
 cava
 dconf-editor
