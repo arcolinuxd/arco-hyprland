@@ -63,7 +63,7 @@ dconf-editor
 feh
 hyprland-git
 nerd-fonts-source-code-pro
-rofi
+rofi-lbonn-wayland
 thunar
 thunar-archive-plugin
 thunar-volman
