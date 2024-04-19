@@ -57,7 +57,7 @@ arcolinux-kitty-git
 arcolinux-local-xfce4-git
 arcolinux-wallpapers-git
 arcolinux-wayland-app-hooks-git 
-arcolinux-xfce-git
+arconet-xfce
 cava
 dconf-editor
 feh
