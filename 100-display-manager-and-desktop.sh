@@ -61,7 +61,11 @@ arconet-xfce
 cava
 dconf-editor
 feh
+hyprcursor-git
 hyprland-git
+hyprlang-git
+hyprutils-git
+hyprwayland-scanner-git
 nerd-fonts-source-code-pro
 rofi-lbonn-wayland
 thunar
