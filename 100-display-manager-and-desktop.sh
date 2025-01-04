@@ -51,7 +51,6 @@ sddm
 archlinux-logout-git
 arcolinux-config-all-desktops-git
 arcolinux-dconf-all-desktops-git
-arcolinux-gtk3-arcolinux-candy-beauty-git
 arcolinux-hyprland-git
 arcolinux-kitty-git
 arcolinux-local-xfce4-git
