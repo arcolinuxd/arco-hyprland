@@ -71,6 +71,7 @@ thunar
 thunar-archive-plugin
 thunar-volman
 tty-clock
+uwsm
 wlr-randr
 xfce4-terminal
 )
